@@ -12,7 +12,7 @@
 
 ## One time for my computer
 
-- create heroku account
+- create heroku account (set-your-app-name)
 - verify email
 - install heroku cli
 - heroku login
